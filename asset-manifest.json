@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/peppermint_ass/static/css/main.abd64e84.css",
+    "main.js": "/peppermint_ass/static/js/main.95b0596f.js",
+    "index.html": "/peppermint_ass/index.html",
+    "main.abd64e84.css.map": "/peppermint_ass/static/css/main.abd64e84.css.map",
+    "main.95b0596f.js.map": "/peppermint_ass/static/js/main.95b0596f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.95b0596f.js"
+  ]
+}
